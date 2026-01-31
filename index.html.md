@@ -123,7 +123,7 @@ button {
   
 <div class="screen final" id="s4">  
   <h1>Te iubesc 🐥utica</h1>  
-  <img src="poza-noastra.jpg" alt="Noi doi">  
+  <img src="poza-noastra.jpg" alt="Noi doi" style="max-height:70vh; object-fit:cover;">
 </div>  
   
 <div class="fireworks" id="fireworks"></div>  
